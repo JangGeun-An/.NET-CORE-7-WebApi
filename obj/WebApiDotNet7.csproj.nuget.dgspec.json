@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\WebApiDotNet7\\WebApiDotNet7.csproj": {}
+    "D:\\GitHub\\.NET-CORE-7-WebApi\\WebApiDotNet7.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\WebApiDotNet7\\WebApiDotNet7.csproj": {
+    "D:\\GitHub\\.NET-CORE-7-WebApi\\WebApiDotNet7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\WebApiDotNet7\\WebApiDotNet7.csproj",
+        "projectUniqueName": "D:\\GitHub\\.NET-CORE-7-WebApi\\WebApiDotNet7.csproj",
         "projectName": "WebApiDotNet7",
-        "projectPath": "D:\\GitHub\\WebApiDotNet7\\WebApiDotNet7.csproj",
+        "projectPath": "D:\\GitHub\\.NET-CORE-7-WebApi\\WebApiDotNet7.csproj",
         "packagesPath": "C:\\Users\\Zeek\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\WebApiDotNet7\\obj\\",
+        "outputPath": "D:\\GitHub\\.NET-CORE-7-WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zeek\\AppData\\Roaming\\NuGet\\NuGet.Config",

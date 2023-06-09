@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFnZ4/PunCU0q1HlzG6x5AiJoeuAnMS0gCrLDHEd0iTuLB3swPWVsF7hf+4t4z9rZ1jFHlnGBTHtVZMRE4ceAA==",
+  "dgSpecHash": "1CnzE3qkGcZrHR1NZOk+RCrOBkSV5AljPLBXJN93hhAFmSezlEC1VSeoI5jsKP2AVUO/6CwhQhdgU+C6VgGwkw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\WebApiDotNet7\\WebApiDotNet7.csproj",
+  "projectFilePath": "D:\\GitHub\\.NET-CORE-7-WebApi\\WebApiDotNet7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zeek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Zeek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
